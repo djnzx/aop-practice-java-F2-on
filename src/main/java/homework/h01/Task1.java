@@ -2,7 +2,7 @@ package homework.h01;
 
 // base
 // https://leetcode.com/problems/palindrome-number/
-public class T1 {
+public class Task1 {
 
   public boolean isPalindrome(int x) {
 
